@@ -1,0 +1,9 @@
+Workload,sram,lprom
+DT-Small,57,240
+DT-Medium,57,300
+DT-Large,61,456
+KNN-Small,125,7407
+KNN-Medium,125,28719
+KNN-Large,125,55359
+LR,137,1543
+MLP,716,5316

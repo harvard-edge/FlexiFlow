@@ -1,0 +1,12 @@
+Workload,sram,lprom
+Food Spoilage Detection,97,2655
+Cardiotocography,590,3266
+Arrhythmia Detection,4170,3466
+Water Quality Monitoring,13,306
+HVAC Control,63,47494
+Package Tracking,4238,8809
+Gesture Recognition,40033,200456
+Air Pollution Monitoring,92,63382
+Malodor Classification,21,738
+Smart Irrigation Control,77,1920
+Tree Tracking,4238,8809

@@ -1,0 +1,8 @@
+**/.vscode
+**/.DS_Store
+build
+trace*
+**/__pycache__
+**/plots/
+todo.md
+riscv-gnu-toolchain/

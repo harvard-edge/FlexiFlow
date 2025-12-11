@@ -1,0 +1,9 @@
+decision_tree_large
+decision_tree_medium
+decision_tree_small
+knn_large
+knn_medium
+knn_small
+logistic_regression
+mlp
+*-multi

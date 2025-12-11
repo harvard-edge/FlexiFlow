@@ -1,0 +1,12 @@
+Workload,Kernel,Total Number of Instructions,I-types,R-types,Loads,Jumps,Stores,Shifts and SLTs,Branches,Others
+Gesture Recognition,Binary Cosine Similarity,375024,125009,19,124988,8,24985,5,100010,0
+Malodor Classification,Decision Tree,52,25,3,11,6,2,2,3,0
+Water Quality Monitoring,Thresholding,38,20,4,5,5,1,0,3,0
+HVAC Control,Random Forest,2797,879,500,407,208,107,16,680,0
+Air Pollution Monitoring,XGBoost,1224,453,131,221,102,49,9,259,0
+Arrhythmia Detection,Bloom Filter,2801169,607551,323494,947498,21413,383705,273504,244004,0
+Food Spoilage Detection,Logisitic Regression,333,28,90,95,7,50,60,3,0
+Cardiotocography,MLP,7327,1217,1733,360,186,427,2004,1400,0
+Package Tracking,MLP,54595,11066,11235,4038,2211,3301,11736,11003,5
+Smart Irrigation Control,KNN,19806,3681,2963,1151,706,370,5026,5909,0
+Tree Tracking,Discrete Fourier Transform,3145586300,268315600,883490100,123756000,84845600,85096600,897548100,802534300,0
