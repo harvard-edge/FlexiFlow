@@ -79,3 +79,20 @@ Our final `FlexiFlow` model is presented in
 [`flexiflow/LifetimeModel.ipynb`](./flexiflow/LifetimeModel.ipynb). This
 notebook provides the framework for exploring the trade-offs between embodied
 and operational carbon footprint based on workload lifetime.
+
+## Reference
+If you use FlexiBench, FlexiBits, or FlexiFlow in your work, please cite the accompanying [paper](https://dl.acm.org/doi/10.1145/3779212.3790182):
+```
+@inproceedings{prakash2026lifetime,
+  author = {Prakash, Shvetank and Cheng, Andrew and Kindgren, Olof and Ahamed, Ashiq and Knight, Graham and Kufel, Jedrzej and Rodriguez, Francisco and Tschand, Arya and Kong, David and Elgamal, Mariam and Huang, Jerry and Chen, Emma and Hills, Gage and Price, Richard and Ozer, Emre and Janapa Reddi, Vijay},
+  title = {Lifetime-Aware Design for Item-Level Intelligence at the Extreme Edge},
+  year = {2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3779212.3790182},
+  booktitle = {Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
+  pages = {1089–1112},
+  location = {USA},
+  series = {ASPLOS '26}
+}
+```
